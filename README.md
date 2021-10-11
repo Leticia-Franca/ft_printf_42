@@ -1,9 +1,10 @@
 # ft_printf_42
 
-In this project, we want to reproduce the behavior of printf(). This code is only for the mandatory part, which means:
-  a) This ft_printf() doesn't take into account the precision nor minimum fields width;
-  b) Likewise, it doesn't take into account none of the flags (0-+# );
+Hello and welcome to this README!  
+As 42's cadets, we don't get to use printf function in our codes, but in this project, we have to create *our* version of printf. Now, this repository contains only the **mandatory** part. So, if you want to figure out how to manage the flags (-0+ .), maybe this one won't help your case.  
+That said, here are a quick outline to the mandatory part!  
 
-# Things learned from the project:
-   - Break it into small chunks: 
-   This was my first **big** project in Ecole 42-SP (I aimed for the bonus at first). In summary, this means I spent days doing a diagram to **divide and conquer**    the ft_printf(). In the end I delivered the mandatory (which does only the conversions, if any), but from now on I feel more confident and secure about projects    like this. 
+## The basic outline  
+
+
+
